@@ -1,0 +1,10 @@
+This is a repository for homework #5 for Jayson Barker
+
+It contains the following:
+
+1. FemaleNamesTop10.csv  -  top 10 popular female names from 2015 and 2016
+2. HW5_Knit.html - a knitted HTML file that contains reproducible code to generate the above file
+3. HW5_Knit.Rmd - a knitted R file that contains reproducible code to generate the above file
+4. yob2015.txt - raw 2015 names data
+5. yob2016.txt - raw 2016 names data
+

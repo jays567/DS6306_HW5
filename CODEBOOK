@@ -1,0 +1,8 @@
+Codebook of created objects
+
+df = data frame of 2016 names data
+y2016 = dataframe of 2016 names data with error name removed
+y20156 = dataframe of 2015 names data
+final = dataframe of combined 2015 and 2016 names data
+sortFinal = dataframe of sorted 2015 and 2016 names data
+FFinal = dataframe of sorted female top 10 names
